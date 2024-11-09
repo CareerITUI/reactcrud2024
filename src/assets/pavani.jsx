@@ -1,9 +1,9 @@
-const pavani = () =>{
-    return (
+const Pavani = () => {
+    return(
         <div>
             <h1>Pavani Component</h1>
-            </div>
-
+        </div>
     )
 }
- export default pavani;
+
+export default Pavani;
