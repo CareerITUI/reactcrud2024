@@ -5,3 +5,4 @@ const  Nandini=()=>{
         </div>
      )
 }
+export default Nandini;
