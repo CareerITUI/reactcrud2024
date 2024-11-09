@@ -1,9 +1,8 @@
 const Vasu = () => {
     return (
         <div>
-            <h1>simple component</h1>
+            <h1>vasu componenet</h1>
         </div>
     )
-
 }
 export default Vasu;
