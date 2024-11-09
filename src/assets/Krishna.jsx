@@ -1,7 +1,7 @@
 const Krishna = () => {
     return(
         <div>
-            <h1>Krishna Component</h1>
+            <h1>Krishna Component 2346</h1>
         </div>
     )
 }
