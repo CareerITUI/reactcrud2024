@@ -5,3 +5,4 @@ const prasad=()=>{
         </div>
     )
 }
+export  default prasad;
